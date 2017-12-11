@@ -120,8 +120,8 @@ padding-left: 0;
 
 }
 .status-picker .popout-menu-item:nth-of-type(5){
- background-color: #747f8d;   
-    background-image: url("https://i.imgur.com/gxJLFK6.png");
+ background-color: #ffd700;   
+    background-image: url(https://images6.alphacoders.com/772/thumb-1920-772493.jpg);
     background-repeat: no-repeat;
     background-position: center;
 
@@ -173,7 +173,7 @@ max-width: 14px;
 max-height: 14px;
 border-radius: 100%;
 text-align: center;
-    color: black;
+    color: white;
     background: white;
 }
 /* transparent shit */
@@ -427,7 +427,7 @@ background: rgba(255,255,255,.1);
 #user-profile-modal .actions .btn.add-friend:hover::after{
     width: 140px;
  background: white;
- content: "Send Friend Request" !important;
+ content: "New Friend?" !important;
  color: black !important;
 }
 #user-profile-modal .guilds .guild{
